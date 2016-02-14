@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Kayrnt
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software engineer passionated about Big Data & Mobile
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/3818678
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kayrnt@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: kayrnt
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/christopheoudar
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: kayrnt
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -53,12 +53,12 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.1.0
+version: v3.0.2
 
 # Set the Sass partials directory, as we're using @imports
 sass:
